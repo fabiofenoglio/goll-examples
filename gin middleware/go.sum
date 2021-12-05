@@ -2,6 +2,8 @@ github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ3
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/fabiofenoglio/gin-goll v0.1.0 h1:KIcrdsNTv1H+Wy7gfbVnKTVxvV4c9zQELbZMCKRx73g=
+github.com/fabiofenoglio/gin-goll v0.1.0/go.mod h1:1r6P17YwgtQDYpdTC+rL3Xl03HLSev5tgtO6AxQPgKA=
 github.com/fabiofenoglio/goll v0.1.0 h1:Omnu5l17Jxr998eI3Yl5lK3ZsWzbT1Lhh/uyu8ytf+U=
 github.com/fabiofenoglio/goll v0.1.0/go.mod h1:MlDz7lzAXUf5MGmR8iscxUrlCXfse1RxNIwnkHZS2ug=
 github.com/gammazero/deque v0.1.0 h1:f9LnNmq66VDeuAlSAapemq/U7hJ2jpIWa4c09q8Dlik=
